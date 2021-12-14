@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RustedMiind
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning Back-end development
 - 📫 How to reach me :
   E-mail : Bodykoko2002@gmail.com
   Discord : RustedMind#5157
