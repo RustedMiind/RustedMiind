@@ -10,8 +10,6 @@
 </div>
 
 -----
-<details>
-  <summary>☎️ contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -38,7 +36,6 @@
     </p>
   </samp>
 </div>
-</details>
 
 
 -----
