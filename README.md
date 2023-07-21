@@ -1,13 +1,8 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ali</h1>
-<h4 align="center">A Fresh Front-End Developer Seeking for a job, See my <a href="https://rustedmindx.web.app/static/media/Ali%20Soliman%20-%20CV.674c565bc188ce552089.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A Front-End Developer at Vision Dimensions, See my <a href="https://rustedmindx.web.app/static/media/Ali%20Soliman%20-%20CV.674c565bc188ce552089.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
-<div align="center">
-  <a href="https://rustedmindx.web.app/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 -----
 <div>
