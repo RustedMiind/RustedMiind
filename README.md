@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ali</h1>
-<h4 align="center">A Front-End Developer at Vision Dimensions, See my <a href="https://ali-soliman.web.app/Ali%20Soliman%20-%20Resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A Front-End Developer at Vision Dimensions</h4>
 </div>
 
 
@@ -32,6 +32,3 @@
   </samp>
 </div>
 
-
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
